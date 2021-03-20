@@ -1,2 +1,2 @@
-# Portfolio
-This is portfolio web site
+# portfolio
+This is repository for portfolio.
